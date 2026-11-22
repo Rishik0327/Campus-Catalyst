@@ -1,4 +1,4 @@
-# Campus Catalyst - Simple Data Cleaning Assistant (Project #98)
+# Campus Catalyst - Simple Data Cleaning Assistant
 
 A beginner-friendly Python application that **finds missing values, duplicate rows and
 inconsistent entries** in a small dataset, fixes them, and reports on the result.
